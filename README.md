@@ -2,6 +2,9 @@
 
 This is the sample application for the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 
-[x] Something
-[ ] @mention
-[ ] #refs
+* this
+* that
+* the other
+* whetihqwoeithqweoithqwoetih
+	ghwiqeogiqwhgoi
+* ghwpoegi
